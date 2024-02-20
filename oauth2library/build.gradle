@@ -5,7 +5,7 @@ apply plugin: 'com.android.library'
 version = "2.4.2"
 
 android {
-    compileSdkVersion 25
+    compileSdkVersion 33
 
     defaultConfig {
         minSdkVersion 11
